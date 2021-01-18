@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_exam"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        android:title="Exams" />
+
+    <item
+        android:id="@+id/navigation_results"
+        android:icon="@drawable/ic_reorder_black_24dp"
+        android:title="Results" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_exit"
+        android:title="Logout" />
+
+</menu>
